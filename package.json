@@ -1,0 +1,30 @@
+{
+  "name": "@hintergrund/d1-sync",
+  "version": "1.0.0",
+  "description": "Minimalistic auto-migration tool for Cloudflare D1 using raw SQL",
+  "main": "bin.js",
+  "publishConfig": { "access": "public" },
+  "bin": {
+    "d1-sync": "./bin.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cloudflare",
+    "d1",
+    "migration",
+    "sql",
+    "sqlite",
+    "wrangler",
+    "autoshifter",
+    "auto-migration"
+  ],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
