@@ -25,6 +25,6 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/hintergrund-dev/d1-sync.git"
   }
 }
